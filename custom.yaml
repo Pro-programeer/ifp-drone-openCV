@@ -1,0 +1,8 @@
+path: C:/Users/Prasana/OneDrive/Desktop/dataset
+train: images/train
+val: images/val
+
+names:
+  0: GarbagePile
+  1: bin
+  2: PET
